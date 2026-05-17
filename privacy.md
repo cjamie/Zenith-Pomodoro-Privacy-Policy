@@ -2,7 +2,7 @@
 
 **Last Updated: May 16, 2026**
 
-Zenith Pomodoro ("the Application"), developed by [Your Name/Company Name] ("we," "us," or "our"), is committed to maintaining the highest standards of user privacy and data security. This Privacy Policy describes our practices regarding the collection, use, and disclosure of information when you use our Application.
+Zenith Pomodoro ("the Application"), developed by Jamie Chu and Shahab Darvish ("we," "us," or "our"), is committed to maintaining the highest standards of user privacy and data security. This Privacy Policy describes our practices regarding the collection, use, and disclosure of information when you use our Application.
 
 ## 1. Data Collection and Retention
 
@@ -59,5 +59,4 @@ While your data remains on-device, our privacy-first approach is designed to res
 
 For any inquiries or feedback regarding this Privacy Policy, please contact us at:
 
-**Email:** [Insert Support Email Address]  
-**Website:** [Insert Website URL]
+**Email:** jamiechu9288@gmail.com  
